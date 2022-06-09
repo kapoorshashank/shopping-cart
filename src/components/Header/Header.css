@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 5 15 5;
+  padding: 30px;
+  background-color: lightblue;
+}
+
+a{
+    text-decoration: none;
+}

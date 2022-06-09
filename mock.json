@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Samsung",
+      "author": "typicode",
+      "price": "100",
+      "img": "https://st1.bgr.in/wp-content/uploads/2019/09/samsung-galaxy-note-10-plus-review.jpg##image/jpg",
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "title": "Apple",
+      "author": "typicode",
+      "price": "1000",
+      "img": "https://st1.bgr.in/wp-content/uploads/2019/09/samsung-galaxy-note-10-plus-review.jpg##image/jpg",
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "title": "MI",
+      "author": "typicode",
+      "price": "2000",
+      "img": "https://st1.bgr.in/wp-content/uploads/2019/09/samsung-galaxy-note-10-plus-review.jpg##image/jpg",
+      "quantity": 0
+    }
+  ]
+}

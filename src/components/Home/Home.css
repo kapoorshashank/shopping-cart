@@ -1,0 +1,12 @@
+.home {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  /* margin: 15px; */
+}
+button {
+  border: none;
+  padding: 10px;
+}
